@@ -1,2 +1,4 @@
 # BasicBankingSystem
-Basic Banking System is dynamic website which contain 10 users in which we can transfer amount between them. You can run the project using XAMPP server
+This project is build using html, css and php
+
+It is basic credit management system with 10 users and carries out basic banking transactions.
