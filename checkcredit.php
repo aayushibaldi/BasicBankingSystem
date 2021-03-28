@@ -1,4 +1,6 @@
+
 <?php
+//
 session_start();
 $con=mysqli_connect('localhost','root','','banking_system');
 $name1=$_SESSION['name'];

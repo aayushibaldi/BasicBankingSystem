@@ -1,4 +1,5 @@
 <?php
+//
 session_start();
 $con=mysqli_connect('localhost','root','','banking_system');
 $q="select *from mini_statement";
